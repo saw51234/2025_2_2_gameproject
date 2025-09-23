@@ -338,7 +338,7 @@ GameObject:
   - component: {fileID: 325659662}
   - component: {fileID: 325659661}
   m_Layer: 0
-  m_Name: DeliveryrderSystem
+  m_Name: DeliveryorderSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
